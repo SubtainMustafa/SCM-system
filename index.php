@@ -35,7 +35,7 @@
 
 <!--footer-->
 <div class="footer">
-    <p>&copy; <?php echo Date('Y'); ?>  All Rights reserved |  Designed By Scrap Group </p>
+    <p>&copy; <?php echo Date('Y'); ?>  All Rights Reserved |  Designed By Scrap Group </p>
 </div>
 <!--//footer-->
 <script src="js/loginFunction.js"></script>

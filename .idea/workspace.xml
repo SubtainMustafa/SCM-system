@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c19914df-c0ee-41ff-a0a7-f133a17d8d9f" name="Default" comment="" />
+    <list default="true" id="c19914df-c0ee-41ff-a0a7-f133a17d8d9f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +18,9 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="431">
-              <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+              <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
               <folding>
-                <marker date="1514185272509" expanded="true" signature="415:441" ph="..." />
+                <marker date="1514185609344" expanded="true" signature="415:441" ph="..." />
               </folding>
             </state>
           </provider>
@@ -309,12 +311,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514133350268</updated>
       <workItem from="1514133353140" duration="6172000" />
-      <workItem from="1514178556025" duration="5443000" />
+      <workItem from="1514178556025" duration="5777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11615000" />
+    <option name="totallyTimeSpent" value="11949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -355,7 +357,7 @@
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <marker date="1514185272509" expanded="true" signature="415:441" ph="..." />
+            <marker date="1514185609344" expanded="true" signature="415:441" ph="..." />
           </folding>
         </state>
       </provider>
@@ -523,9 +525,9 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
-          <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
           <folding>
-            <marker date="1514185272509" expanded="true" signature="415:441" ph="..." />
+            <marker date="1514185609344" expanded="true" signature="415:441" ph="..." />
           </folding>
         </state>
       </provider>
